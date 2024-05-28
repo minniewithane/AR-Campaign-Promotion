@@ -8,6 +8,5 @@ AR Name Card
 Informative content about the bar and its services
 Engaging user experience
 
-**Repository contents:
-**
+**Repository contents:**
 Unity project files and Demo video 
